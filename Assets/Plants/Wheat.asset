@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56026b08878c8d740a2743375dcf215f, type: 3}
+  m_Name: Wheat
+  m_EditorClassIdentifier: 
+  timeToGrow: 9
+  dropPlant: {fileID: 11400000, guid: 02bb6f9dad21eea44b13e4cf13bc05a7, type: 2}
+  count: 2
+  growingTiles:
+  - {fileID: 11400000, guid: 983676fbff78f90469e537ed15cd1880, type: 2}
+  - {fileID: 11400000, guid: b7906479cb3627c43915219a4a2a5c66, type: 2}
+  - {fileID: 11400000, guid: 6c23017d0b1e10b42928f0e636a9119f, type: 2}
+  - {fileID: 11400000, guid: 2eacf30622d4f2448a0bb94a46b89c8b, type: 2}
+  growthPhaseTime: 00000000030000000600000009000000

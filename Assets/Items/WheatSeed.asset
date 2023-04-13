@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dd67dde323e76744bfe340ee59999e2, type: 3}
+  m_Name: WheatSeed
+  m_EditorClassIdentifier: 
+  itemName: WheatSeed
+  isStackable: 1
+  icon: {fileID: -788331425, guid: 0b1ca261edbf3bf4488ea7099a9fe62a, type: 3}
+  onAction: {fileID: 0}
+  onTilemapAction: {fileID: 11400000, guid: c5899a8320c2d5e47b21f169b32193ec, type: 2}
+  onItemUsage: {fileID: 11400000, guid: c5899a8320c2d5e47b21f169b32193ec, type: 2}
+  plant: {fileID: 11400000, guid: 2601a1817bae90e46a71e452d165bc37, type: 2}
+  isSellable: 0
+  priceForSell: 0
+  isBuyable: 1
+  priceForBuy: 40
+  nameForDisplay: "\u0421\u0435\u043C\u0435\u043D\u0430 \u043F\u0448\u0435\u043D\u0438\u0446\u044B"
